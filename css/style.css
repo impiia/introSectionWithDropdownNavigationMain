@@ -495,6 +495,7 @@ body {
     font-family: 'Epilogue', sans-serif;
     background-color: hsl(0, 0%, 98%);
     color: hsl(0, 0%, 41%);
+    background-color: red;
 }
 
 .wrapper {
@@ -720,6 +721,7 @@ footer .attribution {
 @media screen and (max-width: 835px) {
     header.top_header .wrapper {
         margin: 0 15px;
+     
     }
 
     header.top_header .wrapper .hamburger-menu {
